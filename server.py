@@ -38,7 +38,7 @@ Available Commands:
 # ==== Server Setup ====
 show_interface()
 
-host = '10.42.185.22'  # Your IP address (must match client)
+host = 'YourIP'  # Your IP address (must match client)
 port = 4444            # Port to listen on
 
 # Create socket, bind, and listen for one connection
