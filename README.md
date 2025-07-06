@@ -35,7 +35,7 @@ On the **client machine**, install required packages:
 1. open bash and run: git clone https://github.com/nbh02/basic-python-rat/edit/main/README.md
 2. run this command:  cd basic-python-rat
 3. pip install -r requirements.txt
-4. if 4. does not work run this: ```bash python -m pip install -r requirements.txt
+4. if 4. does not work run this: python -m pip install -r requirements.txt
 
 
 
